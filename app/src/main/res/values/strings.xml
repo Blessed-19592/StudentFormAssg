@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StudentRegForm</string>
+
+
+<string-array name="programmes">
+
+<item>Select study programme</item>
+<item>Software Engineering</item>
+<item>Computer Science</item>
+<item>Information Technology</item>
+<item>Business Information Systems</item>
+<item>Data Science</item>
+    </string-array>
+    </resources>
